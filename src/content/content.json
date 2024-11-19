@@ -32,17 +32,17 @@
         "best":"Best Delivered Categories",
         "info":"Here are some of the best delivered categories.If you want,you can order from here",
         "order":"Order Now",
-        "fries":{
-            "text":"French Fries",
-            "img":"/assets/images/2d-food/fries.png"
-        },
-        "cake":{
-            "text":"Blueberry Cake",
-            "img":"/assets/images/2d-food/cake.png"
-        },
         "pizza":{
-            "text":"Chicken Pizza",
+            "text":"Peperoni Pizza",
             "img":"/assets/images/2d-food/pizza.png"
+        },
+        "springroll":{
+            "text":"Sweet Spring roll",
+            "img":"/assets/images/2d-food/springroll.png"
+        },
+        "hotdog":{
+            "text":"Meaty hotdog",
+            "img":"/assets/images/2d-food/hotdog.png"
         }
     },
     "RegularMenu":{
