@@ -51,44 +51,62 @@
         "see":"See All",
         "buy":"Buy Now",
         "star":"/assets/icons/star-solid.svg",
-        "fooditems":{
-            "burger":{
+        "fooditems":[
+            {
                 "text":"Chicken Burger",
-                "img":"/assets/images/food/chicken-burger.jpg"
+                "img":"/assets/images/food/chicken-burger.jpg",
+                "price":"3.50",
+                "reviews":160
             },
-            "pizza":{
+            {
                 "text":"Chicken Pizza",
-                "img":"/assets/images/food/chicken-pizza.jpg"
+                "img":"/assets/images/food/chicken-pizza.jpg",
+                "price":"7.90",
+                "reviews":200
             },
-            "fry":{
+            {
                 "text":"Chicken Wings",
-                "img":"/assets/images/food/chicken-wings.jpg"
+                "img":"/assets/images/food/chicken-wings.jpg",
+                "price":"7.90",
+                "reviews":200
             },
-            "cupcake":{
+            {
                 "text":"Sweet Cupcakes",
-                "img":"/assets/images/food/cupcakes.jpg"
+                "img":"/assets/images/food/cupcakes.jpg",
+                "price":"7.90",
+                "reviews":200
             },
-            "springroll":{
+            {
                 "text":"Fried Spring Rolls",
-                "img":"/assets/images/food/springrolls.jpg"
+                "img":"/assets/images/food/springrolls.jpg",
+                "price":"7.90",
+                "reviews":200
             },
-            "hotdog":{
+            {
                 "text":"Sweet Hotdog",
-                "img":"/assets/images/food/hotdog.jpg"
+                "img":"/assets/images/food/hotdog.jpg",
+                "price":"7.90",
+                "reviews":200
             },
-            "spaghetti":{
+            {
                 "text":"Italian Pasta Spaghetti",
-                "img":"/assets/images/food/spaghetti.jpg"
+                "img":"/assets/images/food/spaghetti.jpg",
+                "price":"7.90",
+                "reviews":200
             },
-            "tacos":{
+            {
                 "text":"Mexican Tacos",
-                "img":"/assets/images/food/tacos.jpg"
+                "img":"/assets/images/food/tacos.jpg",
+                "price":"7.90",
+                "reviews":200
             },
-            "sandwich":{
-                "text":"Sandwich with Salted Cucumbers",
-                "img":"/assets/images/food/sandwich.jpg"
+            {
+                "text":"Sandwich with Cucumbers",
+                "img":"/assets/images/food/sandwich.jpg",
+                "price":"7.90",
+                "reviews":200
             }
-        }
+        ]
     },
     "Footer":{
         "icons":{
