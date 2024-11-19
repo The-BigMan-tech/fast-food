@@ -4,6 +4,7 @@
     import Features from "$lib/components/Features.svelte";
     import Best from "$lib/components/Best.svelte";
     import Menu from "$lib/components/Menu.svelte";
+    import Footer from "$lib/components/Footer.svelte";
 </script>
 
 <Navbar/>
@@ -11,3 +12,4 @@
 <Features/>
 <Best/>
 <Menu/>
+<Footer/>

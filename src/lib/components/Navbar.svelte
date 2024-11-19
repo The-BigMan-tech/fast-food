@@ -3,7 +3,7 @@
     let navcontent = content.Navbar
 </script>
 
-<div class="flex bg-[#fb4368] items-center h-16 text-white">
+<div class="flex bg-[#ea3e60] items-center h-16 text-white">
     <h1 class="ml-10 font-bold text-3xl font-space_mono">{navcontent.brand}</h1>
     <div class="flex absolute left-[20rem] gap-10 font-[Consolas]">
         <h2>{navcontent.home}</h2>

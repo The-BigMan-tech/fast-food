@@ -59,8 +59,8 @@
                 "reviews":160
             },
             {
-                "text":"Chicken Pizza",
-                "img":"/assets/images/food/chicken-pizza.jpg",
+                "text":"Sweet Pizza",
+                "img":"/assets/images/food/sweetpizza.jpg",
                 "price":"7.90",
                 "reviews":200
             },
@@ -71,8 +71,8 @@
                 "reviews":200
             },
             {
-                "text":"Sweet Cupcakes",
-                "img":"/assets/images/food/cupcakes.jpg",
+                "text":"Grilled Sausage",
+                "img":"/assets/images/food/grilledsausage.jpg",
                 "price":"7.90",
                 "reviews":200
             },
@@ -110,17 +110,21 @@
     },
     "Footer":{
         "icons":{
-            "pinterest":"/assets/images/icons/pinterest.svg",
-            "instagram":"/assets/images/icons/instagram.svg",
-            "twitter":"/assets/images/icons/twitter.svg",
-            "facebook":"/assets/images/icons/facebook.svg"
+            "pinterest":"/assets/icons/pinterest.svg",
+            "instagram":"/assets/icons/instagram.svg",
+            "twitter":"/assets/icons/twitter.svg",
+            "facebook":"/assets/icons/facebook.svg"
         },
         "text":{
             "food":"Foodish",
             "follow":"Follow Us On",
-            "menu":"Menu",
-            "info":"Information",
             "contact":"Contact"
+        },
+        "foodish_text":"Continue Foodish 2024 all rights reserved",
+        "contact":{
+            "phoneno":"+123 456 789",
+            "explore":"Explore",
+            "info":"info@Foodsih.com"
         }
     }
 }

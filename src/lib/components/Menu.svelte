@@ -26,7 +26,7 @@
                 </div>
                 <div class="flex gap-3 relative top-3">
                     <h2 class="text-2xl font-bold font-space_mono">${item.price}</h2>
-                    <button>{regular.buy}</button>
+                    <button class="bg-white text-[#c63451] py-2 px-6 relative left-4 bottom-1 rounded-2xl">{regular.buy}</button>
                 </div>
             </div>
         {/each}
